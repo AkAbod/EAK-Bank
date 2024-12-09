@@ -19,7 +19,7 @@ My banking app aims to simulate core banking functionalities in a simplified man
 - **Account Management**: Account creation with currency and branch selection.
 - **Currency Exchange**: Real-time currency conversion with bank fees.
 - **Fund Transfers**: Secure transfer of funds between accounts.
-- **Loan Applications**: Loan processing with interest rates fetched from the Central Bank of Turkey API (You can basically use any API).
+- **Loan Applications**: Loan processing with interest rates fetched from the a Central Bank API
 - **Credit Card and Deposit Accounts**: Additional features if time permits.
 
 ---
@@ -39,7 +39,7 @@ My banking app aims to simulate core banking functionalities in a simplified man
 2. **MySQL Database**: Data persistence for user accounts, transactions, and loan applications.
 3. **WordPress Integration**: Seamless integration of the backend with a WordPress-based frontend for a functional prototype.
 4. **Secure Communication**: Secure handling of sensitive data between the backend, database, and frontend.
-5. **Live Currency Exchange**: Dynamic conversion rates with added bank fees for transactions.
+5. **Live Interest Rates & Currency Exchange**: Dynamic conversion and interest rates with added bank fees. 
 
 ---
 
@@ -51,4 +51,4 @@ This project is for academic purposes. Please leave a feedback if you can, it wi
 
 # 📧 Contact
 
-For suggestions, please reach via my GitHub account @AkAbod
+For suggestions, please reach out through my GitHub account @AkAbod
