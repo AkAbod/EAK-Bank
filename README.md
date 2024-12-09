@@ -43,12 +43,12 @@ My banking app aims to simulate core banking functionalities in a simplified man
 
 ---
 
-## 🤝 Contributing
+## 🤝 Feedback
 
-This project is for academic purposes. Contributions and feedback are welcome!
+This project is for academic purposes. Please leave a feedback if you can, it will benefit me alot :) 
 
 --- 
 
-📧 Contact
+# 📧 Contact
 
 For suggestions, please reach via my GitHub account @AkAbod
