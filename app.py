@@ -7,10 +7,10 @@ app = Flask(__name__)
 
 # Database Configuration // For higher security, this will be moved to a separate .env file and a dotenv loading method will be used to use it in this app.
 db_config = {
-    'host': 'localhost',
-    'user': 'root',
-    'password': 'rAr02052004', 
-    'database': 'eakbank'
+    'host': 'DB HOST',
+    'user': 'DB USER',
+    'password': 'DB PASS', 
+    'database': 'DB NAME'
 }    
     
 # Helper Function to Connect to MySQL DB
