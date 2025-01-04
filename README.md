@@ -5,9 +5,10 @@ Welcome to **EAK Bank**, a university project for the **Software Design and Arch
 ---
 ---
 
-## ⚠️ Under Construction
+## ✅ Project Complete
 
-Everything in this project is currently **under construction**—from the backend app and the prototype website to this GitHub page. If you're an early supporter, thank you for your support! Updates will be made step by step as I work toward perfecting the system for use in a prototype banking website. This app is not intended for use in a real banking system at all!
+This project is now complete. While the program can be edited to suit your needs, it is NOT suitable for use in a real financial system under any circumstances.
+Thank you for your interest and support!
 
 ---
 ---
